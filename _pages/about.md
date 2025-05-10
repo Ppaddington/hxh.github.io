@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<meta name="google-site-verification" content="E6JRy_9e8p3fXYd7XJxvotXzkru1Klk9o54i221v8mU" />
 
 <span class='anchor' id='about-me'></span>
 
