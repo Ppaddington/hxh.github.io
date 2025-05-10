@@ -36,7 +36,7 @@ I am **Xinhao Huang (黄新昊)**, a Ph.D. candidate in Data Science and Analysi
   - Achievements: National Scholarship, Principal's Scholarship, Outstanding Graduate
 
 
-## Honors and Awards
+## 🎖 Honors and Awards
 
 - 2022, Postgraduate Scholarship (Grade 1), Harbin Institute of Technology, Shenzhen.
 - 2021, Postgraduate Scholarship (Grade 1), Harbin Institute of Technology, Shenzhen.
