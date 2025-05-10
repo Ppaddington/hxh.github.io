@@ -21,7 +21,7 @@ repository               : "Ppaddington/hxh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/me.png"
   name             : "Xinhao Huang"
   pronouns         :  
   bio              : "PhD student in DSA, The Hong Kong University of Science and Technology (Guang Zhou)"
