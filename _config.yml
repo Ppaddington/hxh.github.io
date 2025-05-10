@@ -7,9 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xinhao Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Xinhao Huang"
+  pronouns         :  
+  bio              : "PhD student in DSA, The Hong Kong University of Science and Technology (Guang Zhou)"
+  location         : "Guang Zhou, China"
+  employer         : 
+  uri              : 
+  email            : 
 
   # Academic websites
   academia         : # URL
