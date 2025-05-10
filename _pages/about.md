@@ -31,7 +31,7 @@ I am **Xinhao Huang (黄新昊)**, a Ph.D. candidate in Data Science and Analysi
   - Achievements: CCF-Tencent Open Fund
 
 - _2016.09 - 2020.06_, Guangxi University, B.S. in Computer Science and Technology
-  - GPA: 3.78/4.0 (Ranked 1st out of 130)
+  - GPA: 4.21/5.0 (Ranked 1st out of 130)
   - Advisor: Prof. Jia XU
   - Achievements: National Scholarship, Principal's Scholarship, Outstanding Graduate
 
