@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Xinhao Huang (黄新昊)**, a Ph.D. candidate in Data Science and Analysis Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Zeyi Wen]([https://sites.google.com/view/chuxiaowen](https://zeyiwen.github.io/)). My research focuses on efficiency optimization for large language models (LLMs), with an emphasis on low-rank decomposition techniques for model compression.
+I am **Xinhao Huang (黄新昊)**, a Ph.D. candidate in Data Science and Analysis Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Zeyi Wen](https://zeyiwen.github.io/). My research focuses on efficiency optimization for large language models (LLMs), with an emphasis on low-rank decomposition techniques for model compression.
 
 # 🔥 News
 
