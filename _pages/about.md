@@ -13,11 +13,11 @@ redirect_from:
 
 I am **Xinhao Huang (黄新昊)**, a Ph.D. candidate in Data Science and Analysis Thrust at the Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Zeyi Wen](https://zeyiwen.github.io/). My research focuses on efficiency optimization for large language models (LLMs), with an emphasis on low-rank decomposition techniques for model compression.
 
-# 🔥 News
+## 🔥 News
 
 - [2024.12] &nbsp;🎉🎉 SoLA is accepted by AAAI 2025. SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression, Association for the Advancement of Artificial Intelligence (AAAI), 2025. ([paper](https://ojs.aaai.org/index.php/AAAI/article/view/33923))
 
-# 📖 Educations
+## 📖 Educations
 
 - _2024.01 - now_, The Hong Kong University of Science and Technology (Guangzhou), PhD Candidate in Computer Science
 
@@ -36,7 +36,7 @@ I am **Xinhao Huang (黄新昊)**, a Ph.D. candidate in Data Science and Analysi
   - Achievements: National Scholarship, Principal's Scholarship, Outstanding Graduate
 
 
-# Honors and Awards
+## Honors and Awards
 
 - 2022, Postgraduate Scholarship (Grade 1), Harbin Institute of Technology, Shenzhen.
 - 2021, Postgraduate Scholarship (Grade 1), Harbin Institute of Technology, Shenzhen.
